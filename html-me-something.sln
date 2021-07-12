@@ -8,9 +8,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		index.html = index.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{86B0EFB2-1978-43C3-A7A6-931485E5DFDC}"
+	ProjectSection(SolutionItems) = preProject
+		CH-Logo.PNG = CH-Logo.PNG
+		..\..\..\..\Downloads\pizza1.jpg = ..\..\..\..\Downloads\pizza1.jpg
+		pizza2.png = pizza2.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86B0EFB2-1978-43C3-A7A6-931485E5DFDC} = {0B747966-7209-4C27-BD87-5C6790207FC9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {833F1987-77D0-4A0F-903F-DBEF8D256CCC}
