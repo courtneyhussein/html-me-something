@@ -6,11 +6,15 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B747966-7209-4C27-BD87-5C6790207FC9}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+		style.css = style.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{86B0EFB2-1978-43C3-A7A6-931485E5DFDC}"
 	ProjectSection(SolutionItems) = preProject
+		brick-background.jpg = brick-background.jpg
 		CH-Logo.PNG = CH-Logo.PNG
+		github.png = github.png
+		linkdin.png = linkdin.png
 		..\..\..\..\Downloads\pizza1.jpg = ..\..\..\..\Downloads\pizza1.jpg
 		pizza2.png = pizza2.png
 	EndProjectSection

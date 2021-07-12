@@ -1,0 +1,65 @@
+﻿body {
+    background-color: lightgray;
+}
+
+#logo {
+    width: 100px;
+    height: 75px;
+}
+
+.author{
+    font-family: cursive;
+    font-size: 12px;
+}
+
+h1, h2 {
+    margin: 20px;
+    border: 5px;
+    text-align: center;
+    color: darkred;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50px;
+    border-color: black;
+    border: 100px;
+}
+
+.pizza-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
+.contact-logo {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.gray-background {
+    background-color: darkgray;
+    margin: 5px;
+}
+
+
+.font-size-20{
+    font-size: 20px;
+}
+
+.raimos-links {
+    display: block;
+    margin: 10px;
+}
+
+.contact-raimos {
+    font-size: 20px;
+    border: 5px dashed darkred;
+    padding: 5px 5px 5px 5px;
+}
+
