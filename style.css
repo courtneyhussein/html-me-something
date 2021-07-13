@@ -69,7 +69,7 @@ li {
 }
 
 ul li::before {
-    /*content: " \1F355";*/
+    content: " \1F355";
     display: inline-block;
     margin-right: 0.2rem;
     margin-right: 5px;
