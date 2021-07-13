@@ -63,3 +63,14 @@ img {
     padding: 5px 5px 5px 5px;
 }
 
+li {
+    margin: 5px;
+    list-style-type: none;
+}
+
+ul li::before {
+    content: " \1F355";
+    display: inline-block;
+    margin-right: 0.2rem;
+    margin-right: 5px;
+}
